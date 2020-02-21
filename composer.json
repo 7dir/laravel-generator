@@ -1,5 +1,5 @@
 {
-    "name": "infyomlabs/laravel-generator",
+    "name": "7dir/laravel-generator",
     "type": "library",
     "description": "InfyOm Laravel Generator",
     "keywords": [
@@ -19,8 +19,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitul Golakiya",
-            "email": "me@mitul.me"
+            "name": "Mike",
+            "email": "mltefive@gmail.com"
         }
     ],
     "require": {
